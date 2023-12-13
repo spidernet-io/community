@@ -25,7 +25,7 @@ The Spiderpool maintainers hold a community meeting on the 1st of every month at
 
 We welcome any contributions of new features, bug fixes, or documentation updates and more. To get started, please read this [guide](https://github.com/spidernet-io/spiderpool/blob/main/docs/develop/contributing.md).
 
-Before you start contributing to this project, please check out [CODE OF CONDUCT](CODE-OF-CONDUCT.md) and [Contributor-Ladder](./Contributor-Ladder.md) for different ways to get involved and level up within the project and see different roles within the project in the contributor roles.
+Before you start contributing to this project, please check out [CODE OF CONDUCT](CODE-OF-CONDUCT.md) and [Contributor-Ladder](./CONTRIBUTOR-LADDER.md) for different ways to get involved and level up within the project and see different roles within the project in the contributor roles.
 
 If you have a public GitHub account, feel free to submit issues or pull requests to get in touch with us, these filters are a good starting point (you must be logged in to GitHub to see these issues):
 
